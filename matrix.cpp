@@ -13,3 +13,7 @@ Matrix& Matrix::operator=(const Matrix& rhs){
     }
     return *this;
 }
+
+Matrix::copy(const Matrix& rhs){}
+
+Matrix::clear(){}
