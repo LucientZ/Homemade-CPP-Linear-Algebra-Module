@@ -31,7 +31,7 @@ int main(){
     cout << "Begin Tests" << "\n";
     test(true_returner);
     test(false_returner);
-    skip(false_returner)
+    skip(false_returner);
 
     cout << '\n' << red << "Fails: " << fails << '\n' << green << "Passes: " << passes << '\n' << yellow << "Skips: " << skips << '\n' << reset << flush;
 }
