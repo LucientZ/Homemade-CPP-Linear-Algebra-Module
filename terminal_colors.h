@@ -2,7 +2,7 @@
 #define TERMINAL_COLORS_H
 
 #define black    "\033[30m"
-#define grey     "\033[94m"
+#define blue     "\033[94m"
 #define yellow   "\033[93m"
 #define green    "\033[92m"
 #define red      "\033[91m"
